@@ -131,7 +131,7 @@ const Hero = () => {
             <svg
               viewBox="0 0 200 200"
               xmlns="http://www.w3.org/2000/svg"
-              className="w-full h-full"
+              className="w-full h-full mt-10 lg:mt-0"
             >
               <defs>
                 <clipPath id="blob">
